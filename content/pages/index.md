@@ -5,9 +5,7 @@ sections:
     type: section_hero
     title: Jasmine Hero
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: This is where I add all the cool things just because this app is awesome
     actions:
       - label: Get Started
         url: /docs
